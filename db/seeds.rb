@@ -8,8 +8,8 @@
 
 
 Character.create([
-	{ name: "Neo", description: false },
-	{ name: "Trinity", description: false },
-	{ name: "Morpheus", description: false },
-	{ name: "Agent Smith", description: false },
+	{ name: "Neo", description: "is a fictional character and the protagonist of The Matrix franchise, created by the Wachowskis." },
+	{ name: "Trinity", description: "is a fictional character in The Matrix franchise"},
+	{ name: "Morpheus", description: "is a fictional character in the Matrix franchise." },
+	{ name: "Agent Smith", description: "s a fictional character and the main antagonist of The Matrix franchise." },
 ])
