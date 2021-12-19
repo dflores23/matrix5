@@ -1,3 +1,3 @@
 class Vehicle < ApplicationRecord
-belongs_to :character
+belongs_to :characters
 end
